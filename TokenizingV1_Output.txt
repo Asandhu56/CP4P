@@ -1,0 +1,49 @@
+
+Output 1:
+
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space(q - to quit):
+warning: this program uses gets(), which is unsafe.
+A
+Word #1 is 'A'
+Type a few words separated by space(q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+
+Output 2:
+
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space(q - to quit):
+warning: this program uses gets(), which is unsafe.
+Arshdeep Singh Sandhu
+Word #1 is 'Arshdeep'
+Word #2 is 'Singh'
+Word #3 is 'Sandhu'
+Type a few words separated by space(q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+
+Output 3:
+
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space(q - to quit):
+warning: this program uses gets(), which is unsafe.
+A B C D E F G H I J K L M
+Word #1 is 'A'
+Word #2 is 'B'
+Word #3 is 'C'
+Word #4 is 'D'
+Word #5 is 'E'
+Word #6 is 'F'
+Word #7 is 'G'
+Word #8 is 'H'
+Word #9 is 'I'
+Word #10 is 'J'
+Word #11 is 'K'
+Word #12 is 'L'
+Word #13 is 'M'
+Type a few words separated by space(q - to quit):
+q
+*** End of Tokenizing Words Demo ***

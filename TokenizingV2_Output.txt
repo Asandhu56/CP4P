@@ -1,0 +1,89 @@
+Output 1:
+
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space(q - to quit):
+warning: this program uses gets(), which is unsafe.
+Arshdeep Singh Sandhu
+Word #1 is 'Arshdeep'
+Word #2 is 'Singh'
+Word #3 is 'Sandhu'
+Type a few words separated by space(q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+a
+Phrase #1 is 'a'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+Output 2:
+
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space(q - to quit):
+warning: this program uses gets(), which is unsafe.
+Arshdeep Singh Sandhu
+Word #1 is 'Arshdeep'
+Word #2 is 'Singh'
+Word #3 is 'Sandhu'
+Type a few words separated by space(q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+Arshdeep Singh Sandhu, 148958218, asandhu56@myseneca.ca
+Phrase #1 is 'Arshdeep Singh Sandhu'
+Phrase #2 is ' 148958218'
+Phrase #3 is ' asandhu56@myseneca.ca'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+Output 3:
+
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space(q - to quit):
+warning: this program uses gets(), which is unsafe.
+Arshdeep Singh Sandhu
+Word #1 is 'Arshdeep'
+Word #2 is 'Singh'
+Word #3 is 'Sandhu'
+Type a few words separated by space(q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+Phrase #1 is 'a'
+Phrase #2 is 'b'
+Phrase #3 is 'c'
+Phrase #4 is 'd'
+Phrase #5 is 'e'
+Phrase #6 is 'f'
+Phrase #7 is 'g'
+Phrase #8 is 'h'
+Phrase #9 is 'i'
+Phrase #10 is 'j'
+Phrase #11 is 'k'
+Phrase #12 is 'l'
+Phrase #13 is 'm'
+Phrase #14 is 'n'
+Phrase #15 is 'o'
+Phrase #16 is 'p'
+Phrase #17 is 'q'
+Phrase #18 is 'r'
+Phrase #19 is 's'
+Phrase #20 is 't'
+Phrase #21 is 'u'
+Phrase #22 is 'v'
+Phrase #23 is 'w'
+Phrase #24 is 'x'
+Phrase #25 is 'y'
+Phrase #26 is 'z'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***

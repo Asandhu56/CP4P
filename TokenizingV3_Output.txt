@@ -1,0 +1,34 @@
+***Start of Tokenizing Words Demo ***
+*** Start of Tokenizing Sentences Demo *** 
+Type a few sentences separated by dot (q - to quit) : 
+A        
+sentence #1 is 'a'
+Type a few sentences separated by dot (q - to quit) : 
+q
+*** End of Tokenizing Sentences Demo ***
+
+*** Start of Tokenizing Sentences Demo *** 
+Type a few sentences separated by dot (q - to quit) : 
+Hi, my name is Arshdeep Singh Sandhu.My student id is 148958218.I am a CPP student        
+sentence #1 is 'Hi my name is Arshdeep Singh Sandhu'
+sentence #2 is 'My student id is 148958218'
+sentence #3 is 'I am a CPP student'
+Type a few sentences separated by dot (q - to quit) : 
+q
+*** End of Tokenizing Sentences Demo ***
+
+*** Start of Tokenizing Sentences Demo *** 
+Type a few sentences separated by dot (q - to quit) : 
+a b.c d e.f g h.i j k.l m n.o p q.r s t.u v w.x y z
+sentence #1 is 'a b'
+sentence #2 is 'c d e'
+sentence #3 is 'f g h'
+sentence #4 is 'i j k'
+sentence #5 is 'l m n'
+sentence #6 is 'o p q'
+sentence #7 is 'r s t'
+sentence #8 is 'u v w'
+sentence #9 is 'x y z' 
+Type a few sentences separated by dot (q - to quit) : 
+q
+*** End of Tokenizing Sentences Demo ***
